@@ -1,5 +1,5 @@
 # isosign - Library for signing MP4 files
-Library provided by [ONVIF](www.onvif.org) for signing media files.
+Library provided by [ONVIF](https://www.onvif.org) for signing media files.
 
 ## Overview
 This tiny library provides an easy way to sign video and audio files without modifying the media content. 
