@@ -6,7 +6,7 @@ This tiny library provides an easy way to sign video and audio files without mod
 It is compatible with the ISO base file format better known as MP4 and the similar Quicktime file format.
 
 The library consists of a single class box in namespace siso that supports the required manipulation mechanism.
-A sample program is provided to demonstrate the usage of library. It uses openssl as external command for calculating the signature in order to keep the sample as simple as possible. 
+A sample program is provided to demonstrate the usage of the library. It uses openssl as external command for calculating the signature in order to keep the sample application as simple as possible. 
 
 The resulting files can be played back by any player that supports the original content. For signature verification you may use the Export File Player provided at www.github.com/onvif/oxfplayer.
 
